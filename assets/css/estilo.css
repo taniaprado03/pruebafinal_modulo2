@@ -1,0 +1,11 @@
+.nav{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    z-index: 9999999999;
+}
+
+
+.img-nav{
+    width: 35px;
+    padding: 0 5px;
