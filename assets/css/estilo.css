@@ -36,7 +36,17 @@ i{
     background-color: rgb(6, 162, 235);
 
 }
+@media screen and (max-width: 600px) {
+    #cartas-1 {
+      display: none;
+    }
+  }
+
 .cuadro-100{
     max-height: 142px;
 }
+footer{
+    background-color: rgb(6, 162, 235);
    
+   padding: 18px 0;
+}
